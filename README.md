@@ -1,3 +1,10 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Manish+Kumar+Mandal....;Step+into+my+GitHub+universe,+where+every+commit+is+a+journey+and+every+project+is+an+adventure.+Welcome!&center=true&size=30">
+  </a>
+</h1>
+<br />
+
 # 💫 About Me:
 🎓I'm a Senior (CSE) at ITER, SOA University.<br>🕸️A passionate web developer from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
 
