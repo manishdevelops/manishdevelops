@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'm a junior (CSE) at ITER, SOA University.<br>🕸️A passionate web developer from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
+🎓I'm a Senior (CSE) at ITER, SOA University.<br>🕸️A passionate web developer from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
 
 
 ## 🌐 Socials:
