@@ -6,7 +6,7 @@
 <br />
 
 # 💫 About Me:
-🎓I'm a Senior (CSE) at ITER, SOA University.<br>🕸️A passionate web developer from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
+🎓I'm a Senior (CSE) at ITER, SOA University.<br>🕸️A passionate MERN Stack developer from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
 
 
 ## 🌐 Socials:
