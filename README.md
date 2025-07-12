@@ -6,7 +6,7 @@
 <br />
 
 # 💫 About Me:
-🎓CSE graduate from ITER, SOA University.<br>🕸️A passionate MERN Stack developer and freelance web developer from  from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
+🎓CSE graduate from ITER, SOA University.<br>🕸️A passionate MERN Stack developer and freelancer from  from India.<br>⚡Ask me about web development, Java, Python, or anything<br>
 
 
 ## 🌐 Socials:
